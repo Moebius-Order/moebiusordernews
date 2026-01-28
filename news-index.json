@@ -9,15 +9,16 @@
       "author": "Happy Johns",
       "featured": true,
       "showOnHomepage": true
-    },{
+    },
+    {
       "id": "news-0051",
-      "slug": "introducing-moebius-order",
-      "title": "Introducing Moebifhgus Order",
-      "summary": "An official introducccffcdssstion to Moebius Order, outlining its purpose as a creator-driven digital publishing organization focused on long-term creative systems and original universes.",
-      "publishedAt": "2026-01-27T10:30:00Z",
+      "slug": "organizational-update-overview",
+      "title": "Organizational Update Overview",
+      "summary": "An organizational update outlining internal structuring and future planning without disclosing unreleased initiatives.",
+      "publishedAt": "2026-02-01T09:00:00Z",
       "author": "Happy Johns",
-      "featured": true,
-      "showOnHomepage": true
+      "featured": false,
+      "showOnHomepage": false
     }
   ]
 }
