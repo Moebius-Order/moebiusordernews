@@ -11,14 +11,14 @@
       "showOnHomepage": true
     },
     {
-      "id": "news-0051",
-      "slug": "organizational-update-overview",
-      "title": "Organizational Update Overview",
-      "summary": "An organizational update outlining internal structuring and future planning without disclosing unreleased initiatives.",
-      "publishedAt": "2026-02-01T09:00:00Z",
+      "id": "news-002",
+      "slug": "infinite-gacha-project-status-and-official-clarification",
+      "title": "Infinite Gacha Project Status and Official Clarification",
+      "summary": "An official update detailing the current development status of the Infinite Gacha project, addressing misinformation, and clarifying Moebius Order’s position regarding unrelated intellectual properties.",
+      "publishedAt": "2026-01-30T11:00:00Z",
       "author": "Happy Johns",
-      "featured": false,
-      "showOnHomepage": false
+      "featured": true,
+      "showOnHomepage": true
     }
   ]
 }
